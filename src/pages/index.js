@@ -9,7 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
     <Link to="/about/">About Us</Link>
-    <h1>Aloha kakou</h1>
+    <h1>AshbyInc</h1>
     <p>Welcome to our site.</p>
     <div style={{ maxWidth: `100px`, marginBottom: `1.45rem` }}>
       <Image />
